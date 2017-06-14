@@ -1,0 +1,46 @@
+img{
+  width:700px;
+  display:block;
+  margin:auto;
+  border-radius:10px;
+  padding-bottom:30px;
+}
+h1{
+  padding-top:50px;
+  padding-bottom:20px;
+  color:skyblue;
+  font-family:corsovia;
+  font-size:50px;
+}
+
+p{
+  font-size:22px;
+  color:lightblue;
+  padding-left:30px;
+  padding-right:30px;
+}
+h2:hover{
+  font-size:250%;
+}
+h2{
+  padding-left:30px;
+  color:cyan;
+}
+body{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	}
+h4{
+  color:cyan;
+  
+}
+a:hover{
+  font-size:150%;
+  color:red;
+}
+h5{
+  padding-top:50px;
+  color:cyan;
+  padding-bottom:0px;
+}
